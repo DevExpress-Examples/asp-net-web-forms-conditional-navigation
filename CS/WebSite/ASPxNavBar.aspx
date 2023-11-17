@@ -22,12 +22,9 @@
         <Groups>
             <dx:NavBarGroup>
                 <Items>
-                    <dx:NavBarItem Name="http://www.devexpress.com/" Text="DevExpress Home">
-                    </dx:NavBarItem>
-                    <dx:NavBarItem Name="http://search.devexpress.com/" Text="DevExpress Search">
-                    </dx:NavBarItem>
-                    <dx:NavBarItem Name="http://www.devexpress.com/Support/" Text="DevExpress Support">
-                    </dx:NavBarItem>
+                    <dx:NavBarItem Name="http://www.devexpress.com/" Text="DevExpress Home"/>
+                    <dx:NavBarItem Name="http://search.devexpress.com/" Text="DevExpress Search"/>
+                    <dx:NavBarItem Name="http://www.devexpress.com/Support/" Text="DevExpress Support"/>
                 </Items>
             </dx:NavBarGroup>
         </Groups>
