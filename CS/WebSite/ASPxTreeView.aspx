@@ -19,12 +19,9 @@
     <dx:ASPxTreeView ID="trvExample" runat="server" ClientInstanceName="treeView">
         <ClientSideEvents NodeClick="OnNodeClick" />
         <Nodes>
-            <dx:TreeViewNode Name="http://www.devexpress.com/" Text="DevExpress Home">
-            </dx:TreeViewNode>
-            <dx:TreeViewNode Name="http://search.devexpress.com/" Text="DevExpress Search">
-            </dx:TreeViewNode>
-            <dx:TreeViewNode Name="http://www.devexpress.com/Support/" Text="DevExpress Support">
-            </dx:TreeViewNode>
+            <dx:TreeViewNode Name="http://www.devexpress.com/" Text="DevExpress Home"/>
+            <dx:TreeViewNode Name="http://search.devexpress.com/" Text="DevExpress Search"/>
+            <dx:TreeViewNode Name="http://www.devexpress.com/Support/" Text="DevExpress Support"/>
         </Nodes>
     </dx:ASPxTreeView>
     </form>
