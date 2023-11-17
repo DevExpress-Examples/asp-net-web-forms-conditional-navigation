@@ -22,12 +22,9 @@
         <dx:ASPxMenu ID="menuExample" runat="server" ClientInstanceName="menu">
             <ClientSideEvents ItemClick="OnItemClick" />
             <Items>
-                <dx:MenuItem Name="http://www.devexpress.com/" Text="DevExpress Home">
-                </dx:MenuItem>
-                <dx:MenuItem Name="http://search.devexpress.com/" Text="DevExpress Search">
-                </dx:MenuItem>
-                <dx:MenuItem Name="http://www.devexpress.com/Support/" Text="DevExpress Support">
-                </dx:MenuItem>
+                <dx:MenuItem Name="http://www.devexpress.com/" Text="DevExpress Home"/>
+                <dx:MenuItem Name="http://search.devexpress.com/" Text="DevExpress Search"/>
+                <dx:MenuItem Name="http://www.devexpress.com/Support/" Text="DevExpress Support"/>
             </Items>
         </dx:ASPxMenu>
     </div>
