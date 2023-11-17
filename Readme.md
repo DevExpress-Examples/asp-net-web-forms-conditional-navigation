@@ -13,12 +13,14 @@ This example demonstrates how to implement conditional navigation with ASPxMenu,
 
 ![](confirmation-dialog.png)
 
+## Implementation Details
+
 1. Do not specify the `NavigateURL` property for items or nodes to prevent default items behavior.
 2. Assign navigate URL to item or node `Name` property. It allows you to access navigation URL from item or node context.
 3. Handle the `ItemClick` or `NodeClick` event and perform conditional navigation as shown below.
 
 
-## ASPxMenu
+### ASPxMenu
 
 ```aspx
 <dx:ASPxMenu ID="menuExample" runat="server" ClientInstanceName="menu">
@@ -38,7 +40,7 @@ function OnItemClick(s, e) {
 }
 ```
 
-## ASPxNavBar
+### ASPxNavBar
 
 ```aspx
 <dx:ASPxNavBar ID="nvbExample" runat="server" ClientInstanceName="navBar">
@@ -62,7 +64,7 @@ function OnItemClick(s, e) {
 }
 ```
 
-## ASPxTreeView
+### ASPxTreeView
 
 
 ```aspx
