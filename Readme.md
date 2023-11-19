@@ -8,7 +8,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/e3925/)**
 <!-- run online end -->
 
-This example demonstrates how to implement conditional navigation with ASPxMenu, ASPxTreeView and ASPxNavBar controls. 
+This example demonstrates how to implement conditional navigation with ASPxMenu, ASPxTreeView, and ASPxNavBar controls. 
 
 ![](confirmation-dialog.png)
 
