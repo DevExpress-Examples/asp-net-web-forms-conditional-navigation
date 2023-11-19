@@ -15,7 +15,7 @@ This example demonstrates how to implement conditional navigation with ASPxMenu,
 ## Implementation Details
 
 1. Do not specify the `NavigateURL` property for items or nodes to prevent default behavior.
-2. Assign navigate URL to item or node `Name` property. It allows you to access navigation URL from item or node context.
+2. Assign the navigate URL to the item or node `Name` property to access this URL from item or node context.
 3. Handle the `ItemClick` or `NodeClick` event and perform conditional navigation as shown below.
 
 
