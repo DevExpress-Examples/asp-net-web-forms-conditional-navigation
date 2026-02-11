@@ -90,7 +90,7 @@ function OnNodeClick(s, e) {
 * [ASPxNavBar.aspx](./CS/WebSite/ASPxNavBar.aspx) (VB: [ASPxNavBar.aspx](./VB/WebSite/ASPxNavBar.aspx))
 * [ASPxTreeView.aspx](./CS/WebSite/ASPxTreeView.aspx) (VB: [ASPxTreeView.aspx](./VB/WebSite/ASPxTreeView.aspx))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-conditional-navigation&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-conditional-navigation&~~~was_helpful=no)
 
